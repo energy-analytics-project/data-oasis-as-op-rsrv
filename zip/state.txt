@@ -2453,3 +2453,6 @@ http://oasis.caiso.com/oasisapi/SingleZip?queryname=AS_OP_RSRV&startdatetime=201
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=AS_OP_RSRV&startdatetime=20190919T07:00-0000&enddatetime=20190920T07:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=AS_OP_RSRV&startdatetime=20190920T07:00-0000&enddatetime=20190921T07:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=AS_OP_RSRV&startdatetime=20190921T07:00-0000&enddatetime=20190922T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=AS_OP_RSRV&startdatetime=20190922T07:00-0000&enddatetime=20190923T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=AS_OP_RSRV&startdatetime=20190923T07:00-0000&enddatetime=20190924T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=AS_OP_RSRV&startdatetime=20190924T07:00-0000&enddatetime=20190925T07:00-0000&version=1
